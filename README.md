@@ -141,7 +141,7 @@ All 37 base RV32I instructions across every format are supported, except `FENCE`
 
 | Instr | ALU Code |
 | - | - |
-| JAL | 31 (shared adder with JALR) |
+| JAL | 31 |
 
 
 
