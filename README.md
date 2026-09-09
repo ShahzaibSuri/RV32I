@@ -1,7 +1,5 @@
 # RV32I Single-Cycle Processor (Logisim)
 
-![Uploading image.png…]()
-
 A complete, single-cycle implementation of the RISC-V RV32I base integer instruction set, built in Logisim as part of a RISC-V processor design project at MERL (Microelectronics Research Lab).
 
 This processor implements the full RV32I compute and control-flow instruction set — arithmetic, logic, shifts, comparisons, loads/stores, branches, jumps, and the U-type instructions — in a classic single-cycle datapath: one instruction fetched, decoded, executed, and written back every clock cycle.
